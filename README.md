@@ -1,2 +1,2 @@
 # hello-world
-Learning GIT.
+I am a software quality assurance engineer and web developer.
